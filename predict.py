@@ -248,6 +248,6 @@ if __name__ == '__main__':
     dataset = HW3Dataset(root='data/hw3')
     data = dataset[0]
 
-    analysis(data)
+    # analysis(data)
 
     prediction(data)
