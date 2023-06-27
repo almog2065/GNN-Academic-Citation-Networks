@@ -250,4 +250,4 @@ if __name__ == '__main__':
 
     analysis(data)
 
-    # prediction(data)
+    prediction(data)
